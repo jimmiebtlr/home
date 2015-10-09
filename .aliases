@@ -1,0 +1,9 @@
+# Meta
+alias salias='source ~/.aliases'
+alias valias='vim ~/.aliases'
+
+# Git
+alias g=git
+
+# Files
+alias .='ls -aG'
